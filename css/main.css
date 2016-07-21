@@ -1,0 +1,38 @@
+.one {
+	background-color: grey;
+	margin:2px;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
+.blue{
+	background-color: grey;
+	border: 1px solid black;
+	text-align: center;
+	padding: 10px;
+	margin: 2px;
+	display: inline-block;
+}
+.two{
+	display: inline-block;
+	background-color: grey;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	padding: grey;
+}
+.three{
+	display: inline-block;
+	background-color: grey;
+	margin: 2px;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
+.four{
+	background-color: grey;
+	margin:2px;
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
